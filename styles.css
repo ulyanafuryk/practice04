@@ -38,6 +38,7 @@ nav {
     float:left;
     height:400px;
     width:10%;
+    overflow:hidden;
     font-family:Bookman old style;
     text-align:center;
     text-decoration:none;
