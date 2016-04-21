@@ -39,7 +39,6 @@ nav {
     height:400px;
     width:10%;
     font-family:Bookman old style;
-    overflow: hidden;
     text-align:center;
     text-decoration:none;
 }
@@ -49,5 +48,4 @@ footer {
     height:200px;
     font-family:Bookman old style;
     color:brown;
-    padding-top: 20px;
-}
+}    
