@@ -48,4 +48,14 @@ footer {
     height:200px;
     font-family:Bookman old style;
     color:brown;
+      /*padding-top: 20px;*/
+}
+a: link {
+    color:brown;
+}
+a: active {
+    color:#FFCF00;
+}  
+a: visited {
+    color:#FF8560;
 }
