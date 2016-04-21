@@ -29,7 +29,6 @@ article {
     float:left;
     width:70%;
     height:400px;
-    /*overflow:hidden;*/
     font-family:Bookman old style;
     text-align: center;
 }
@@ -42,12 +41,21 @@ nav {
     overflow: hidden;
     text-align:center;
     text-decoration:none;
-    color:black;
+    color:brown;
+}    
+a: link {
+    color:brown;
+}  
+a: visited {
+    color:#FF8560;
+}
+a: active {
+    color:yellow;
 }
 footer {
     background-color:#FF8560;
     text-align: center;
-    clear:200px;
+    height:200px;
     font-family:Bookman old style;
     color:brown;
     /*padding-top: 20px;*/
