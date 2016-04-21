@@ -1,0 +1,52 @@
+body {
+    min-width:630px;
+    margin:0;
+    padding:0;
+}
+main {
+    height:200px;
+    font-family:French Script MT;
+}
+header {
+    background-color:#CC7F00;
+    height:100px;
+    text-align:center;
+    font-family:French Script MT;
+    color:brown;
+    }
+aside {
+    background-color:#FFC360;
+    float:left;
+    width:10%;
+    height:400px;
+    font-family:French Script MT;
+    color:brown;
+}
+article {
+    background-color:#FCA81C;
+    float:left;
+    width:70%;
+    height:400px;
+    /*overflow:hidden;*/
+    font-family:French Script MT;
+    text-align: center;
+}
+nav {
+    background-color:#7F5000;
+    float:left;
+    height:400px;
+    width:20%;
+    font-family:French Script MT;
+    overflow: hidden;
+    text-align:center;
+    text-decoration:none;
+    color:black;
+}
+footer {
+    background-color:#FFC360;
+    text-align: center;
+    height:200px;
+    font-family:French Script MT;
+    color:brown;
+    /*padding-top: 20px;*/
+}
