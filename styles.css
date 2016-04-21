@@ -9,15 +9,6 @@ main {
     height:200px;
     font-family:Bookman old style;
 }
-a: link {
-    color:brown;
-}
-a: active {
-    color:#FFCF00;
-}  
-a: visited {
-    color:#FF8560;
-}
 header {
     background-color:#CC7F00;
     height:100px;
@@ -57,5 +48,4 @@ footer {
     height:200px;
     font-family:Bookman old style;
     color:brown;
-    /*padding-top: 20px;*/
 }
