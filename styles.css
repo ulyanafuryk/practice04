@@ -29,7 +29,7 @@ article {
     float:left;
     width:70%;
     height:400px;
-    /*overflow:hidden;*/
+    overflow:hidden;
     font-family:Bookman old style;
     text-align: center;
 }
@@ -49,5 +49,5 @@ footer {
     height:200px;
     font-family:Bookman old style;
     color:brown;
-    /*padding-top: 20px;*/
+    padding-top: 20px;
 }
