@@ -51,12 +51,3 @@ footer {
     color:brown;
     /*padding-top: 20px;*/
 }
-a: link {
-    color:brown;
-}
-a: active {
-    color:#FFCF00;
-}  
-a: visited {
-    color:#FF8560;
-}
