@@ -41,16 +41,15 @@ nav {
     overflow: hidden;
     text-align:center;
     text-decoration:none;
-    color:brown;
 }    
 a: link {
     color:brown;
+}
+a: active {
+    color:#FFCF00;
 }  
 a: visited {
     color:#FF8560;
-}
-a: active {
-    color:yellow;
 }
 footer {
     background-color:#FF8560;
