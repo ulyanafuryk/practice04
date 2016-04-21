@@ -1,9 +1,7 @@
-* {
-    margin:0;
-    padding:0;
-}
 body {
     min-width:630px;
+    margin:0;
+    padding:0;
 }
 main {
     height:200px;
@@ -47,7 +45,7 @@ nav {
 footer {
     background-color:#FFC360;
     text-align: center;
-    clear:200px;
+    height:200px;
     font-family:French Script MT;
     color:brown;
     /*padding-top: 20px;*/
